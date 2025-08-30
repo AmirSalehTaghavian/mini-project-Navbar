@@ -12,7 +12,7 @@
 
 در تمام مرور گر ها اجرا می شود.✅
 
-کد ها با HTML CSS ساخته شده اند.🚀
+کد ها با HTML CSS JS ساخته شده اند.🚀
 
 کد ها تمیز و مرتب هستند.🎯
 
@@ -20,6 +20,6 @@
 
 Runs in all browsers.✅
 
-The codes are made with HTML CSS.🚀
+The codes are made with HTML CSS JS.🚀
 
 The codes are clean and tidy.🎯
